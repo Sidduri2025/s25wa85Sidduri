@@ -1,0 +1,16 @@
+{
+  "name": "s25wa85Sidduri",
+  "version": "1.0.0",
+  "description": "Express server hosted on Render",
+  "author": "Vaishnavi Sidduri",
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.21.2",
+    "morgan": "~1.9.1",
+    "pug": "3.0.2"
+  },
+  "scripts": {
+    "start": "node ./bin/www"
+  }
+}
